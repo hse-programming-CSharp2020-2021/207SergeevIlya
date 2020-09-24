@@ -41,6 +41,7 @@ namespace Task5
                  BC_A = (B + C >= A);
 
             Console.WriteLine((AB_C && AC_B && BC_A) ? "Неравенство треугольника верно" : "Неравенство треугольника неверно");
+            Console.ReadKey();
         }
     }
 }

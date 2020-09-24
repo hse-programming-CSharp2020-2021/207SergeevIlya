@@ -47,6 +47,8 @@ namespace Task3
             // (комплексные корни выводим в виде суммы)
             Console.WriteLine("Первый корень = " + ((D < 0) ? (first_int_sum + " + ( Sqrt(" + D + ") / " + 2 * A) : ans1));
             Console.WriteLine("Второй корень = " + ((D < 0) ? (first_int_sum + " - ( Sqrt(" + D + ") / " + 2 * A) : ans2));
+
+            Console.ReadKey();
         }
     }
 }
