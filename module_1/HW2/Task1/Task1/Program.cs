@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Runtime.Serialization;
 
+// Задача #1 из Дз #2
+
 namespace Task1
 {
     class Program
@@ -14,7 +16,6 @@ namespace Task1
 
         static sbyte Get_User_Data (ref double x)
         {
-            Console.WriteLine("Введите x\nДля завершения работы программы введите пустую строку");
 
             string x_string = Console.ReadLine();
 
@@ -37,7 +38,9 @@ namespace Task1
             double x = 0;
 
             //Цикл для повторения решения 
-            int code = Get_User_Data(ref x);
+            Console.WriteLine("Введите x\nДля завершения работы программы введите пустую строку");
+            sbyte code = Get_User_Data(ref x);
+
             while (code < 2)
             {
                 // Если введённые данные корректны
@@ -45,10 +48,14 @@ namespace Task1
                 {
                     double result = x * ( x * ( x * (12 * x + 9) - 3 ) + 2) - 4;
                     Console.WriteLine(result);
+
+                    Console.WriteLine("\nВведите x\nДля завершения работы программы введите пустую строку");
                 }
                 //Иначе
                 else
-                    Console.WriteLine("Введённые данные некорректны\nПопробуйте еще раз");
+                    Console.WriteLine("Введённые данные некорректны" +
+                        "\nПопробуйте еще раз" +
+                        "\nДля завершения работы программы введите пустую строку");
 
                 Console.WriteLine();
 
