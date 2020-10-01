@@ -1,0 +1,13 @@
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_1\SEM_5\Task2\Task2\bin\Debug\netcoreapp3.1\Task2.exe
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_1\SEM_5\Task2\Task2\bin\Debug\netcoreapp3.1\Task2.deps.json
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_1\SEM_5\Task2\Task2\bin\Debug\netcoreapp3.1\Task2.runtimeconfig.json
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_1\SEM_5\Task2\Task2\bin\Debug\netcoreapp3.1\Task2.runtimeconfig.dev.json
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_1\SEM_5\Task2\Task2\bin\Debug\netcoreapp3.1\Task2.dll
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_1\SEM_5\Task2\Task2\bin\Debug\netcoreapp3.1\Task2.pdb
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_1\SEM_5\Task2\Task2\obj\Debug\netcoreapp3.1\Task2.csprojAssemblyReference.cache
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_1\SEM_5\Task2\Task2\obj\Debug\netcoreapp3.1\Task2.AssemblyInfoInputs.cache
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_1\SEM_5\Task2\Task2\obj\Debug\netcoreapp3.1\Task2.AssemblyInfo.cs
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_1\SEM_5\Task2\Task2\obj\Debug\netcoreapp3.1\Task2.csproj.CoreCompileInputs.cache
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_1\SEM_5\Task2\Task2\obj\Debug\netcoreapp3.1\Task2.dll
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_1\SEM_5\Task2\Task2\obj\Debug\netcoreapp3.1\Task2.pdb
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_1\SEM_5\Task2\Task2\obj\Debug\netcoreapp3.1\Task2.genruntimeconfig.cache
