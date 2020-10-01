@@ -6,7 +6,7 @@ namespace Task2
 {
     class Program
     {
-        static bool Shift (ref char ch)
+        static bool Shift(ref char ch)
         {
             if (ch >= 'a' && ch <= 'z')
             {
@@ -16,10 +16,10 @@ namespace Task2
             else if (ch >= 'A' && ch <= 'Z')
             {
                 ch = (char)((int)'A' + ((int)ch - (int)'A' + 4) % 26);
-                return true; 
+                return true;
             }
             else
-                return false; 
+                return false;
         }
 
         static void Main(string[] args)
