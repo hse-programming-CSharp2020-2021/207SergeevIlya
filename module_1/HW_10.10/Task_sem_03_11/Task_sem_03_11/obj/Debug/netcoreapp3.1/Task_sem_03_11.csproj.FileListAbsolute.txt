@@ -1,0 +1,13 @@
+C:\Users\IlyaLayk\source\repos\Task_sem_03_11\Task_sem_03_11\bin\Debug\netcoreapp3.1\Task_sem_03_11.exe
+C:\Users\IlyaLayk\source\repos\Task_sem_03_11\Task_sem_03_11\bin\Debug\netcoreapp3.1\Task_sem_03_11.deps.json
+C:\Users\IlyaLayk\source\repos\Task_sem_03_11\Task_sem_03_11\bin\Debug\netcoreapp3.1\Task_sem_03_11.runtimeconfig.json
+C:\Users\IlyaLayk\source\repos\Task_sem_03_11\Task_sem_03_11\bin\Debug\netcoreapp3.1\Task_sem_03_11.runtimeconfig.dev.json
+C:\Users\IlyaLayk\source\repos\Task_sem_03_11\Task_sem_03_11\bin\Debug\netcoreapp3.1\Task_sem_03_11.dll
+C:\Users\IlyaLayk\source\repos\Task_sem_03_11\Task_sem_03_11\bin\Debug\netcoreapp3.1\Task_sem_03_11.pdb
+C:\Users\IlyaLayk\source\repos\Task_sem_03_11\Task_sem_03_11\obj\Debug\netcoreapp3.1\Task_sem_03_11.csprojAssemblyReference.cache
+C:\Users\IlyaLayk\source\repos\Task_sem_03_11\Task_sem_03_11\obj\Debug\netcoreapp3.1\Task_sem_03_11.AssemblyInfoInputs.cache
+C:\Users\IlyaLayk\source\repos\Task_sem_03_11\Task_sem_03_11\obj\Debug\netcoreapp3.1\Task_sem_03_11.AssemblyInfo.cs
+C:\Users\IlyaLayk\source\repos\Task_sem_03_11\Task_sem_03_11\obj\Debug\netcoreapp3.1\Task_sem_03_11.csproj.CoreCompileInputs.cache
+C:\Users\IlyaLayk\source\repos\Task_sem_03_11\Task_sem_03_11\obj\Debug\netcoreapp3.1\Task_sem_03_11.dll
+C:\Users\IlyaLayk\source\repos\Task_sem_03_11\Task_sem_03_11\obj\Debug\netcoreapp3.1\Task_sem_03_11.pdb
+C:\Users\IlyaLayk\source\repos\Task_sem_03_11\Task_sem_03_11\obj\Debug\netcoreapp3.1\Task_sem_03_11.genruntimeconfig.cache
