@@ -1,0 +1,13 @@
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_1\SEM_08.10\Taks1\Taks1\bin\Debug\netcoreapp3.1\Taks1.exe
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_1\SEM_08.10\Taks1\Taks1\bin\Debug\netcoreapp3.1\Taks1.deps.json
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_1\SEM_08.10\Taks1\Taks1\bin\Debug\netcoreapp3.1\Taks1.runtimeconfig.json
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_1\SEM_08.10\Taks1\Taks1\bin\Debug\netcoreapp3.1\Taks1.runtimeconfig.dev.json
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_1\SEM_08.10\Taks1\Taks1\bin\Debug\netcoreapp3.1\Taks1.dll
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_1\SEM_08.10\Taks1\Taks1\bin\Debug\netcoreapp3.1\Taks1.pdb
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_1\SEM_08.10\Taks1\Taks1\obj\Debug\netcoreapp3.1\Taks1.csprojAssemblyReference.cache
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_1\SEM_08.10\Taks1\Taks1\obj\Debug\netcoreapp3.1\Taks1.AssemblyInfoInputs.cache
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_1\SEM_08.10\Taks1\Taks1\obj\Debug\netcoreapp3.1\Taks1.AssemblyInfo.cs
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_1\SEM_08.10\Taks1\Taks1\obj\Debug\netcoreapp3.1\Taks1.csproj.CoreCompileInputs.cache
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_1\SEM_08.10\Taks1\Taks1\obj\Debug\netcoreapp3.1\Taks1.dll
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_1\SEM_08.10\Taks1\Taks1\obj\Debug\netcoreapp3.1\Taks1.pdb
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_1\SEM_08.10\Taks1\Taks1\obj\Debug\netcoreapp3.1\Taks1.genruntimeconfig.cache
