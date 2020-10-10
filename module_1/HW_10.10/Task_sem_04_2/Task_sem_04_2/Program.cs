@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 
 namespace Task_sem_04_2
 {
@@ -31,20 +32,26 @@ namespace Task_sem_04_2
             int[][] Arr = new int[N][];
 
             //Заполняем его
-            for (int i = 0, d = 0; i <= N; ++i, d += i)
+            int i, d; 
+            for (i = 0, d = 0; N - d > 0; ++i, d += i)
             {
                 //Заполняем строку i
-                Arr[i] = new int[i];
+                Arr[i] = new int[i + 1];
 
-                for (int j = 0; j < i; ++j)
+                for (int j = 0; j <= i; ++j)
                 {
                     Arr[i][j] = N - d - j;
                 }
             }
+            //В конце выполнения цикла кол-во строк в массиве, в которых что-то хранится будет равно i
+
+            //Выкидывам лишние эл-ты
+            Array.Resize(ref Arr, i);
 
             //Выводим ступенчатый массив
-            for (int i = 0; i < N; ++i)
-
+            for (int k  = 0; k < i; ++k, Console.WriteLine())
+                for (int j = 0; j <= k; ++j)
+                    Console.Write(Arr[k][j] + " ");
         }
     }
 }

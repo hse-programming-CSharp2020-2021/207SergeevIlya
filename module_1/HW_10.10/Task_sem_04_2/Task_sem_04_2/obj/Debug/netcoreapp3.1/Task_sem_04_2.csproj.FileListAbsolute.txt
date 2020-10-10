@@ -1,0 +1,13 @@
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_1\HW_10.10\Task_sem_04_2\Task_sem_04_2\bin\Debug\netcoreapp3.1\Task_sem_04_2.exe
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_1\HW_10.10\Task_sem_04_2\Task_sem_04_2\bin\Debug\netcoreapp3.1\Task_sem_04_2.deps.json
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_1\HW_10.10\Task_sem_04_2\Task_sem_04_2\bin\Debug\netcoreapp3.1\Task_sem_04_2.runtimeconfig.json
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_1\HW_10.10\Task_sem_04_2\Task_sem_04_2\bin\Debug\netcoreapp3.1\Task_sem_04_2.runtimeconfig.dev.json
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_1\HW_10.10\Task_sem_04_2\Task_sem_04_2\bin\Debug\netcoreapp3.1\Task_sem_04_2.dll
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_1\HW_10.10\Task_sem_04_2\Task_sem_04_2\bin\Debug\netcoreapp3.1\Task_sem_04_2.pdb
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_1\HW_10.10\Task_sem_04_2\Task_sem_04_2\obj\Debug\netcoreapp3.1\Task_sem_04_2.csprojAssemblyReference.cache
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_1\HW_10.10\Task_sem_04_2\Task_sem_04_2\obj\Debug\netcoreapp3.1\Task_sem_04_2.AssemblyInfoInputs.cache
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_1\HW_10.10\Task_sem_04_2\Task_sem_04_2\obj\Debug\netcoreapp3.1\Task_sem_04_2.AssemblyInfo.cs
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_1\HW_10.10\Task_sem_04_2\Task_sem_04_2\obj\Debug\netcoreapp3.1\Task_sem_04_2.csproj.CoreCompileInputs.cache
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_1\HW_10.10\Task_sem_04_2\Task_sem_04_2\obj\Debug\netcoreapp3.1\Task_sem_04_2.dll
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_1\HW_10.10\Task_sem_04_2\Task_sem_04_2\obj\Debug\netcoreapp3.1\Task_sem_04_2.pdb
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_1\HW_10.10\Task_sem_04_2\Task_sem_04_2\obj\Debug\netcoreapp3.1\Task_sem_04_2.genruntimeconfig.cache
