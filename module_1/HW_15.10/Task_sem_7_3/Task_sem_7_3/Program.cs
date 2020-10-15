@@ -14,8 +14,7 @@ namespace Task_sem_7_3
             Encoding enc = Encoding.Unicode;
             const int linesCount = 6; // кол-во предложений
             // Создаём файл на диске 
-            File.WriteAllText(fileName, string.Empty, enc); // Создаём пустой файл
-            Console.WriteLine("Переписка до форматирования");
+            File.WriteAllText(fileName, "Переписка до форматирования\n", enc); // Создаём пустой файл
             for (int i = 0; i < linesCount; i++)
             {
                 string message = string.Empty; // предложение
@@ -26,13 +25,13 @@ namespace Task_sem_7_3
                 }
                 message += '.' + Environment.NewLine; // Добавляем в сообщение точку и перенос на следующую строку
                 File.AppendAllText(fileName, message, enc); // Добавляем строку в файл
-                Console.Write(message);
             }
             // читаем сформированинный файл и обрабатываем предложения 
             string[] messages = File.ReadAllLines(fileName, enc); // Массив сообщений из переписки
-            Console.WriteLine(Environment.NewLine + "Переписк после формирования:");
-            foreach (string item in messages)
-                Console.WriteLine(item.Substring(0, item.Length - 1)); // Выводим сообщения из переписки без точек на экран
+
+            File.AppendAllText(fileName, "\nПереписка после формирования:\n", enc);
+            for (int it = 1; it < messages.Length; ++it)
+                File.AppendAllText(fileName, messages[it].Substring(0, messages[it].Length - 1) + '\n', enc);  // Выводим сообщения из переписки без точек на экран
                     
         }
     }
