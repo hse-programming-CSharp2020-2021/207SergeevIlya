@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TaskMainApp/1.0.0": {
+        "dependencies": {
+          "Task01": "1.0.0"
+        },
+        "runtime": {
+          "TaskMainApp.dll": {}
+        }
+      },
+      "Task01/1.0.0": {
+        "runtime": {
+          "Task01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TaskMainApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Task01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

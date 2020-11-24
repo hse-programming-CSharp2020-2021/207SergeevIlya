@@ -1,0 +1,9 @@
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\HW_24.11\ClassesABLib\Task01\bin\Debug\netstandard2.0\Task01.deps.json
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\HW_24.11\ClassesABLib\Task01\bin\Debug\netstandard2.0\Task01.dll
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\HW_24.11\ClassesABLib\Task01\bin\Debug\netstandard2.0\Task01.pdb
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\HW_24.11\ClassesABLib\Task01\obj\Debug\netstandard2.0\Task01.csprojAssemblyReference.cache
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\HW_24.11\ClassesABLib\Task01\obj\Debug\netstandard2.0\Task01.AssemblyInfoInputs.cache
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\HW_24.11\ClassesABLib\Task01\obj\Debug\netstandard2.0\Task01.AssemblyInfo.cs
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\HW_24.11\ClassesABLib\Task01\obj\Debug\netstandard2.0\Task01.csproj.CoreCompileInputs.cache
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\HW_24.11\ClassesABLib\Task01\obj\Debug\netstandard2.0\Task01.dll
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\HW_24.11\ClassesABLib\Task01\obj\Debug\netstandard2.0\Task01.pdb

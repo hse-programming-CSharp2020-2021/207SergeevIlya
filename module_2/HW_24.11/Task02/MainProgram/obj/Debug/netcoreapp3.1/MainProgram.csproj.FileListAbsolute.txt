@@ -1,0 +1,16 @@
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\HW_24.11\Task02\MainProgram\bin\Debug\netcoreapp3.1\MainProgram.exe
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\HW_24.11\Task02\MainProgram\bin\Debug\netcoreapp3.1\MainProgram.deps.json
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\HW_24.11\Task02\MainProgram\bin\Debug\netcoreapp3.1\MainProgram.runtimeconfig.json
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\HW_24.11\Task02\MainProgram\bin\Debug\netcoreapp3.1\MainProgram.runtimeconfig.dev.json
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\HW_24.11\Task02\MainProgram\bin\Debug\netcoreapp3.1\MainProgram.dll
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\HW_24.11\Task02\MainProgram\bin\Debug\netcoreapp3.1\MainProgram.pdb
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\HW_24.11\Task02\MainProgram\bin\Debug\netcoreapp3.1\Figures.dll
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\HW_24.11\Task02\MainProgram\bin\Debug\netcoreapp3.1\Figures.pdb
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\HW_24.11\Task02\MainProgram\obj\Debug\netcoreapp3.1\MainProgram.csprojAssemblyReference.cache
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\HW_24.11\Task02\MainProgram\obj\Debug\netcoreapp3.1\MainProgram.AssemblyInfoInputs.cache
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\HW_24.11\Task02\MainProgram\obj\Debug\netcoreapp3.1\MainProgram.AssemblyInfo.cs
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\HW_24.11\Task02\MainProgram\obj\Debug\netcoreapp3.1\MainProgram.csproj.CoreCompileInputs.cache
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\HW_24.11\Task02\MainProgram\obj\Debug\netcoreapp3.1\MainProgram.csproj.CopyComplete
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\HW_24.11\Task02\MainProgram\obj\Debug\netcoreapp3.1\MainProgram.dll
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\HW_24.11\Task02\MainProgram\obj\Debug\netcoreapp3.1\MainProgram.pdb
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\HW_24.11\Task02\MainProgram\obj\Debug\netcoreapp3.1\MainProgram.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\HW_24.11\ClassesABLib\TaskMainApp\bin\Debug\netcoreapp3.1\TaskMainApp.exe
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\HW_24.11\ClassesABLib\TaskMainApp\bin\Debug\netcoreapp3.1\TaskMainApp.deps.json
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\HW_24.11\ClassesABLib\TaskMainApp\bin\Debug\netcoreapp3.1\TaskMainApp.runtimeconfig.json
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\HW_24.11\ClassesABLib\TaskMainApp\bin\Debug\netcoreapp3.1\TaskMainApp.runtimeconfig.dev.json
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\HW_24.11\ClassesABLib\TaskMainApp\bin\Debug\netcoreapp3.1\TaskMainApp.dll
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\HW_24.11\ClassesABLib\TaskMainApp\bin\Debug\netcoreapp3.1\TaskMainApp.pdb
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\HW_24.11\ClassesABLib\TaskMainApp\bin\Debug\netcoreapp3.1\Task01.dll
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\HW_24.11\ClassesABLib\TaskMainApp\bin\Debug\netcoreapp3.1\Task01.pdb
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\HW_24.11\ClassesABLib\TaskMainApp\obj\Debug\netcoreapp3.1\TaskMainApp.csprojAssemblyReference.cache
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\HW_24.11\ClassesABLib\TaskMainApp\obj\Debug\netcoreapp3.1\TaskMainApp.AssemblyInfoInputs.cache
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\HW_24.11\ClassesABLib\TaskMainApp\obj\Debug\netcoreapp3.1\TaskMainApp.AssemblyInfo.cs
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\HW_24.11\ClassesABLib\TaskMainApp\obj\Debug\netcoreapp3.1\TaskMainApp.csproj.CoreCompileInputs.cache
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\HW_24.11\ClassesABLib\TaskMainApp\obj\Debug\netcoreapp3.1\TaskMainApp.csproj.CopyComplete
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\HW_24.11\ClassesABLib\TaskMainApp\obj\Debug\netcoreapp3.1\TaskMainApp.dll
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\HW_24.11\ClassesABLib\TaskMainApp\obj\Debug\netcoreapp3.1\TaskMainApp.pdb
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\HW_24.11\ClassesABLib\TaskMainApp\obj\Debug\netcoreapp3.1\TaskMainApp.genruntimeconfig.cache

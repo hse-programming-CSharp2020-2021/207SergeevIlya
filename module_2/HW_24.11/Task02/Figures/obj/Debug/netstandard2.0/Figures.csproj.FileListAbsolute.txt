@@ -1,0 +1,9 @@
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\HW_24.11\Task02\Figures\bin\Debug\netstandard2.0\Figures.deps.json
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\HW_24.11\Task02\Figures\bin\Debug\netstandard2.0\Figures.dll
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\HW_24.11\Task02\Figures\bin\Debug\netstandard2.0\Figures.pdb
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\HW_24.11\Task02\Figures\obj\Debug\netstandard2.0\Figures.csprojAssemblyReference.cache
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\HW_24.11\Task02\Figures\obj\Debug\netstandard2.0\Figures.AssemblyInfoInputs.cache
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\HW_24.11\Task02\Figures\obj\Debug\netstandard2.0\Figures.AssemblyInfo.cs
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\HW_24.11\Task02\Figures\obj\Debug\netstandard2.0\Figures.csproj.CoreCompileInputs.cache
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\HW_24.11\Task02\Figures\obj\Debug\netstandard2.0\Figures.dll
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\HW_24.11\Task02\Figures\obj\Debug\netstandard2.0\Figures.pdb

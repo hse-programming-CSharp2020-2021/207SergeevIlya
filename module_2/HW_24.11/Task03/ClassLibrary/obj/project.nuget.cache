@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "br1PeKgCkqJENqWM7AcAtmPqBrMQfsDyTKVEPM3UAWKFk2XDCbcDASFoFfq4YHlG4Ki8lLzv+mFf12pXD2sQJg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\IlyaLayk\\Desktop\\207SergeevIlya\\module_2\\HW_24.11\\Task03\\ClassLibrary\\ClassLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\IlyaLayk\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\IlyaLayk\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
