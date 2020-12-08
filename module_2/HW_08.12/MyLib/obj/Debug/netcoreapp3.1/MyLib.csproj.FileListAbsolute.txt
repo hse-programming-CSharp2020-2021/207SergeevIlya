@@ -1,0 +1,9 @@
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\HW_08.12\MyLib\bin\Debug\netcoreapp3.1\MyLib.deps.json
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\HW_08.12\MyLib\bin\Debug\netcoreapp3.1\MyLib.dll
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\HW_08.12\MyLib\bin\Debug\netcoreapp3.1\MyLib.pdb
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\HW_08.12\MyLib\obj\Debug\netcoreapp3.1\MyLib.csprojAssemblyReference.cache
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\HW_08.12\MyLib\obj\Debug\netcoreapp3.1\MyLib.AssemblyInfoInputs.cache
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\HW_08.12\MyLib\obj\Debug\netcoreapp3.1\MyLib.AssemblyInfo.cs
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\HW_08.12\MyLib\obj\Debug\netcoreapp3.1\MyLib.csproj.CoreCompileInputs.cache
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\HW_08.12\MyLib\obj\Debug\netcoreapp3.1\MyLib.dll
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\HW_08.12\MyLib\obj\Debug\netcoreapp3.1\MyLib.pdb

@@ -1,0 +1,16 @@
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\HW_08.12\Task02\bin\Debug\netcoreapp3.1\Task02.exe
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\HW_08.12\Task02\bin\Debug\netcoreapp3.1\Task02.deps.json
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\HW_08.12\Task02\bin\Debug\netcoreapp3.1\Task02.runtimeconfig.json
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\HW_08.12\Task02\bin\Debug\netcoreapp3.1\Task02.runtimeconfig.dev.json
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\HW_08.12\Task02\bin\Debug\netcoreapp3.1\Task02.dll
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\HW_08.12\Task02\bin\Debug\netcoreapp3.1\Task02.pdb
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\HW_08.12\Task02\bin\Debug\netcoreapp3.1\MyLib.dll
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\HW_08.12\Task02\bin\Debug\netcoreapp3.1\MyLib.pdb
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\HW_08.12\Task02\obj\Debug\netcoreapp3.1\Task02.csprojAssemblyReference.cache
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\HW_08.12\Task02\obj\Debug\netcoreapp3.1\Task02.AssemblyInfoInputs.cache
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\HW_08.12\Task02\obj\Debug\netcoreapp3.1\Task02.AssemblyInfo.cs
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\HW_08.12\Task02\obj\Debug\netcoreapp3.1\Task02.csproj.CoreCompileInputs.cache
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\HW_08.12\Task02\obj\Debug\netcoreapp3.1\Task02.csproj.CopyComplete
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\HW_08.12\Task02\obj\Debug\netcoreapp3.1\Task02.dll
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\HW_08.12\Task02\obj\Debug\netcoreapp3.1\Task02.pdb
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\HW_08.12\Task02\obj\Debug\netcoreapp3.1\Task02.genruntimeconfig.cache
