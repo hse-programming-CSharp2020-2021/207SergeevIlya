@@ -1,0 +1,13 @@
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\SEM_08.12\obj\Debug\netcoreapp3.1\SEM_08.12.csprojAssemblyReference.cache
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\SEM_08.12\obj\Debug\netcoreapp3.1\SEM_08.12.AssemblyInfoInputs.cache
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\SEM_08.12\obj\Debug\netcoreapp3.1\SEM_08.12.AssemblyInfo.cs
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\SEM_08.12\obj\Debug\netcoreapp3.1\SEM_08.12.csproj.CoreCompileInputs.cache
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\SEM_08.12\bin\Debug\netcoreapp3.1\SEM_08.12.exe
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\SEM_08.12\bin\Debug\netcoreapp3.1\SEM_08.12.deps.json
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\SEM_08.12\bin\Debug\netcoreapp3.1\SEM_08.12.runtimeconfig.json
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\SEM_08.12\bin\Debug\netcoreapp3.1\SEM_08.12.runtimeconfig.dev.json
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\SEM_08.12\bin\Debug\netcoreapp3.1\SEM_08.12.dll
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\SEM_08.12\bin\Debug\netcoreapp3.1\SEM_08.12.pdb
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\SEM_08.12\obj\Debug\netcoreapp3.1\SEM_08.12.dll
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\SEM_08.12\obj\Debug\netcoreapp3.1\SEM_08.12.pdb
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_2\SEM_08.12\obj\Debug\netcoreapp3.1\SEM_08.12.genruntimeconfig.cache
