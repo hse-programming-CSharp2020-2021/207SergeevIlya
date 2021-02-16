@@ -1,0 +1,7 @@
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_3\HW_16.02\bin\Debug\HW_16.02.exe.config
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_3\HW_16.02\bin\Debug\HW_16.02.exe
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_3\HW_16.02\bin\Debug\HW_16.02.pdb
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_3\HW_16.02\obj\Debug\HW_16.02.csprojAssemblyReference.cache
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_3\HW_16.02\obj\Debug\HW_16.02.csproj.CoreCompileInputs.cache
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_3\HW_16.02\obj\Debug\HW_16.02.exe
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_3\HW_16.02\obj\Debug\HW_16.02.pdb

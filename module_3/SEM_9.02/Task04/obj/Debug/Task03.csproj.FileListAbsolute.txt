@@ -1,0 +1,7 @@
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_3\SEM_16.02\Task03\bin\Debug\Task03.exe.config
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_3\SEM_16.02\Task03\bin\Debug\Task03.exe
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_3\SEM_16.02\Task03\bin\Debug\Task03.pdb
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_3\SEM_16.02\Task03\obj\Debug\Task03.csprojAssemblyReference.cache
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_3\SEM_16.02\Task03\obj\Debug\Task03.csproj.CoreCompileInputs.cache
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_3\SEM_16.02\Task03\obj\Debug\Task03.exe
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_3\SEM_16.02\Task03\obj\Debug\Task03.pdb

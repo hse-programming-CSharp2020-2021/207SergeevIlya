@@ -1,0 +1,6 @@
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_3\SEM_16.02\Task_02\bin\Debug\Task_02.exe.config
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_3\SEM_16.02\Task_02\bin\Debug\Task_02.exe
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_3\SEM_16.02\Task_02\bin\Debug\Task_02.pdb
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_3\SEM_16.02\Task_02\obj\Debug\Task_02.csproj.CoreCompileInputs.cache
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_3\SEM_16.02\Task_02\obj\Debug\Task_02.exe
+C:\Users\IlyaLayk\Desktop\207SergeevIlya\module_3\SEM_16.02\Task_02\obj\Debug\Task_02.pdb
