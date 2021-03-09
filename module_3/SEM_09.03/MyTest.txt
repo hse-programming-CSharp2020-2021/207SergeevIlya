@@ -1,0 +1,1 @@
+0,679    0,749    CadetBlue0,600    0,260    Brown0,450    0,672    Brown0,157    0,678    DarkSeaGreen0,180    0,144    Green0,947    0,637    Green0,583    0,048    Red0,162    0,297    Crimson0,980    0,536    Black0,868    0,999    Lime
